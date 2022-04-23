@@ -1,0 +1,5 @@
+﻿  database3.cpp
+C:\Users\anton\source\repos\database3\database3.cpp(17,15): warning C4101: 'thisBook': unreferenced local variable
+C:\Users\anton\source\repos\database3\database3.cpp(136,6): warning C4101: 'id': unreferenced local variable
+C:\Users\anton\source\repos\database3\database3.cpp(53): warning C4715: 'buy': not all control paths return a value
+  database3.vcxproj -> C:\Users\anton\source\repos\database3\Debug\database3.exe

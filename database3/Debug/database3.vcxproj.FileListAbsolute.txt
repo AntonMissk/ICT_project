@@ -1,0 +1,2 @@
+C:\Users\anton\source\repos\database3\Debug\database3.exe
+C:\Users\anton\source\repos\database3\Debug\database3.pdb
